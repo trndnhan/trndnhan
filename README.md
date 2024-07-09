@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dinh An</h1>
-<h3 align="center">A weird and expensive introvert oWo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trndnhan&label=Profile%20views&color=0e75b6&style=flat" alt="trndnhan" /> </p>
 
